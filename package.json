@@ -1,0 +1,17 @@
+{
+  "name": "csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "MallamTY",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "csv-parse": "^5.3.1",
+    "csvjson": "^5.1.0"
+  }
+}
