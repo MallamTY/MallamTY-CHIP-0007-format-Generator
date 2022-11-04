@@ -1,0 +1,722 @@
+[
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "kim-rich-aunty",
+    "description": "NFT ",
+    "collection": {
+      "name": "kim-rich-aunty",
+      "id": "3344a73c-f15e-4afd-a1b2-3199e27eb08f",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she loves spoiling her nieces and nephew"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "kim-rich-aunty.0ce0d1a040739d25cb682eb5c6fc7aaa26976994a149f67791cea87ee2d516a3.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "barbra-vampire-bc",
+    "description": "NFT ",
+    "collection": {
+      "name": "barbra-vampire-bc",
+      "id": "4f31fd99-4918-42a9-a112-fa60ef36d5c6",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she loves drinking the blood of her victims"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "barbra-vampire-bc.2380b91c9831cc71bd4b71dd7d476ef46fc28301674e43821edcb30588653767.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "jean-art-dolger",
+    "description": "NFT ",
+    "collection": {
+      "name": "jean-art-dolger",
+      "id": "5e1105d9-e485-462d-a5bf-1eb931976b13",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "loves collecting art for charity "
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "jean-art-dolger.9008d5103f3d9767fc3662dd723c8578271bdab93cb06024a6efde2e37e5b47e.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "flora-burger- eater",
+    "description": "NFT ",
+    "collection": {
+      "name": "flora-burger- eater",
+      "id": "054dffd1-cdff-417b-b6c2-a679dabd087b",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she loves eating burgers"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "flora-burger- eater.02c83747372e36bd4ee8da2ffbbbf9570c29c4d74e5ee0fc830ecf12efa02c6d.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "jessie-lord-rings",
+    "description": "NFT ",
+    "collection": {
+      "name": "jessie-lord-rings",
+      "id": "caacabe1-0abc-43af-92e2-2231248bff93",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she seeks her 'precious'"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "jessie-lord-rings.c4a2168bfd6ef076fd9b0b18e283a122638af65219a2dacda684f18eb638d219.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "pinky-monky-ponk",
+    "description": "NFT ",
+    "collection": {
+      "name": "pinky-monky-ponk",
+      "id": "bd6a4b38-543e-40fa-9153-f7e1a947ebb1",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she love to dance the honky tonk"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "pinky-monky-ponk.8f751dfb00342ea89e7c6ce49b78276b5b4c7326d6126b45945ca87a00456c43.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "wanjiru-hippie-glitter",
+    "description": "NFT ",
+    "collection": {
+      "name": "wanjiru-hippie-glitter",
+      "id": "683f0d27-3cb4-4948-b1b5-09f10bee575a",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "a hippie that loves her glitters"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "wanjiru-hippie-glitter.2d8e2fa8e2e10a13d7c520686986a25341934cb796e8c250485aa6ad836672c0.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "njoki-binary-coder",
+    "description": "NFT ",
+    "collection": {
+      "name": "njoki-binary-coder",
+      "id": "9b59bdb4-0c6c-4107-9d72-6d38d308edb4",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she codes with the best and tops the set"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "njoki-binary-coder.6245eec13a96d5705df230bb4923c72cc4a162abfb56539f48bef93ad2565641.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "wangu-calaba-hustler",
+    "description": "NFT ",
+    "collection": {
+      "name": "wangu-calaba-hustler",
+      "id": "67f7da93-3925-4def-b660-58f558c14a19",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she's a mean hustler so be careful"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "wangu-calaba-hustler.929c0a468d7b5132b3685c4dff4fa8c878fb6f5aa7a42f462f12f1122d2f631c.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "lulu-dey-kpako",
+    "description": "NFT ",
+    "collection": {
+      "name": "lulu-dey-kpako",
+      "id": "23b6c38f-ab84-4565-bfe9-d9eb019c9f29",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she's as skinny as she is beautiful"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "lulu-dey-kpako.efb4879874043f707557ef1574b6850622dc592db72cf15685fc91a4c91cddfa.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "kiki-cala-flier",
+    "description": "NFT ",
+    "collection": {
+      "name": "kiki-cala-flier",
+      "id": "d24aefff-c9fc-4ea9-a7cf-1b741076c822",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she flies first class and gets the best deals"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "kiki-cala-flier.6a4549293971ed6ef449ec92744193300872c7e613b35b4c109ffc56c4489dd4.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "purity-nft -investor",
+    "description": "NFT ",
+    "collection": {
+      "name": "purity-nft -investor",
+      "id": "ee86ef77-4793-411a-88d3-ea54d84f6b24",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she is an angel investor looking for the next big thing"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "purity-nft -investor.15d19924593aebd647912208a878481caa2686ca91c02252cdad1f2587177928.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "june-binary-monk",
+    "description": "NFT ",
+    "collection": {
+      "name": "june-binary-monk",
+      "id": "102c4cdb-f812-44fd-bf47-5065284c6075",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she has a twin thats from Tibet "
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "june-binary-monk.5fc778e5dc65d1c17be329b2c486ada0917587b0dc40a824e52979758d5df286.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "aisha-crows-damsel",
+    "description": "NFT ",
+    "collection": {
+      "name": "aisha-crows-damsel",
+      "id": "c4071af3-b49e-4ad6-898b-7828f90465fb",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she is always a damsel in distress"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "aisha-crows-damsel.34a66f2b3cbfa8d9ae2493e8567cbe313d9099f27e1cf769cc8ea9b62e1f6075.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "bobo-crypto-lovely",
+    "description": "NFT ",
+    "collection": {
+      "name": "bobo-crypto-lovely",
+      "id": "427ea0f5-30a3-4d70-a5bd-a6106409b83c",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she is a crpto guru you can trust all through"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "bobo-crypto-lovely.51435fa3cb2f418008c6ae465fb140c2ba9d2bcb98ee6c9f1ce3660b9a18395c.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "nell-light -embrace",
+    "description": "NFT ",
+    "collection": {
+      "name": "nell-light -embrace",
+      "id": "9dfe30b4-c71a-471c-8091-f5c4a238eed8",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she is an empath; ready with a kind word or hug"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "nell-light -embrace.d6dc8f835821880a2fa9e35efdace7371b812e959c6df1c450afff119edbb826.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "rachel-mood-silent",
+    "description": "NFT ",
+    "collection": {
+      "name": "rachel-mood-silent",
+      "id": "11450acd-f0d7-406f-bc18-bdb680404845",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "introvert  to the core, a mysterious lady"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "rachel-mood-silent.cef2b74591c6d2bfd2ec87f6dda2744b82016d8ee613618e6c35527ba4084503.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "nana-reflector-agent",
+    "description": "NFT ",
+    "collection": {
+      "name": "nana-reflector-agent",
+      "id": "63bda633-bfca-4b28-823f-7772936b4103",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "she loves her chrome fashion stye"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "nana-reflector-agent.d9318c7c15efe7904419dbaeab5a2be5ce7cd1519bb3b412c1385e014e83ed29.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "bree-busy-gossip",
+    "description": "NFT ",
+    "collection": {
+      "name": "bree-busy-gossip",
+      "id": "4f5898d9-fc99-4053-a56c-b2ec1ef41347",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "never wisper your secrets to her, except you want the world to know"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "bree-busy-gossip.00c470424428b073f364449c1a793642beae526534eabb03656a70bb37cb7599.csv"
+  },
+  {
+    "format": "CHIP-0007",
+    "minting_tool": "SuperMinter/2.5.2",
+    "sensitive_content": false,
+    "series_number": 22,
+    "series_total": 1000,
+    "name": "jude-shadow-fighter",
+    "description": "NFT ",
+    "collection": {
+      "name": "jude-shadow-fighter",
+      "id": "a47b2ed7-d4aa-4404-ac40-0ecea464cf3f",
+      "attribute": [
+        {
+          "type": "description",
+          "value": "a ninja warrior, the last samurai standing"
+        },
+        {
+          "type": "icon",
+          "value": ""
+        },
+        {
+          "type": "banner",
+          "value": ""
+        },
+        {
+          "type": "twitter",
+          "value": ""
+        },
+        {
+          "type": "website",
+          "value": ""
+        }
+      ]
+    },
+    "sha256": "jude-shadow-fighter.a1e119db288ff1e6d11464b04f690880c397508bf7be590aad93489072656c24.csv"
+  }
+]
